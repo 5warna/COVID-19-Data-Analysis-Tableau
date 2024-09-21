@@ -9,4 +9,4 @@ The datasets consists of several medical predictor variables and one target vari
 ### Data Quality:
 Before conducting the analysis, performed a thorough data quality check to ensure data integrity and consistency. This process involved handling spelling check, adding conditional columns, and addressing any inconsistencies in the dataset.
 
-### Analysis done on:
+
